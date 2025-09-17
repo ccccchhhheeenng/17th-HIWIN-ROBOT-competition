@@ -1,0 +1,519 @@
+;Version:310
+;[Point&S]
+DECL E6POINT P0={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X -0.000, Y 368.000, Z 293.500, A -180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P1={A1 55.674, A2 1.626, A3 -17.599, A4 0.000, A5 -74.028, A6 -34.326, X -294.254, Y 200.920, Z 198.807, A -179.999, B 0.001, C -180.000, E1 0.000, E2 0.000, E3 0.000}
+;出料一; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P2={A1 -2.379, A2 21.290, A3 -52.824, A4 0.000, A5 -58.460, A6 -92.381, X 8.950, Y 215.380, Z 87.615, A 179.994, B 0.000, C -179.998, E1 0.000, E2 0.000, E3 0.000}
+;三角; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P8={A1 -1.604, A2 -38.918, A3 43.150, A4 0.000, A5 -94.210, A6 -91.607, X 16.168, Y 577.525, Z 242.868, A 179.978, B 0.001, C -179.997, E1 0.000, E2 0.000, E3 0.000}
+;異常; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P9={A1 -22.212, A2 -36.996, A3 15.795, A4 0.000, A5 -68.798, A6 -112.212, X 213.282, Y 522.321, Z 100.103, A 180.000, B 0.000, C 180.000, E1 0.000, E2 0.000, E3 0.000}
+;OUT_1; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P10={A1 -54.980, A2 7.164, A3 -40.682, A4 0.000, A5 -56.482, A6 -144.980, X 238.707, Y 167.271, Z 97.553, A 180.000, B 0.000, C 180.000, E1 0.000, E2 0.000, E3 0.000}
+;OUT_2; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P11={A1 0.000, A2 -29.752, A3 -37.173, A4 -0.001, A5 -23.076, A6 -0.012, X 0.001, Y 367.995, Z -86.599, A 180.000, B 0.002, C 90.013, E1 0.000, E2 0.000, E3 0.000}
+;OUT_3; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P12={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;OUT_4; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P13={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P14={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P15={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P16={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P17={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P18={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P19={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P20={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P21={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P22={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P23={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P24={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P25={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P26={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P27={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P28={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P29={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P30={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P31={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P32={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P33={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P34={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P35={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P36={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P37={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P38={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P39={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P40={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P41={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P42={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P43={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P44={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P45={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P46={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P47={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P48={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P49={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+DECL E6POINT P50={A1 0.000, A2 0.000, A3 0.000, A4 0.000, A5 -90.000, A6 0.000, X 0.000, Y 368.000, Z 119.500, A 180.000, B 0.000, C 90.000, E1 0.000, E2 0.000, E3 0.000}
+;NULL; Tool=1; Base=0; E1Mode=NULL; E2Mode=NULL; E3Mode=NULL
+;[Point&E]
+;[Program&SV2]
+SET_OVERRIDE_SPEED 10
+E6POINT Q0
+E6POINT Q1          ; 用來做 Z 偏移的臨時點
+E6POINT Q2
+INT i_index
+
+; === 各形狀堆疊計數器 ===
+INT stack_big = 0
+INT stack_mid = 0
+INT stack_small = 0
+INT stack_hex = 0
+INT stack_tri = 0
+INT stack_cyl = 0
+INT stack_err = 0
+
+; === 形狀高度 (mm) ===
+INT H_BIG = 70
+INT H_MID = 55
+INT H_SML = 30
+INT H_HEX = 50
+INT H_TRI = 54
+INT H_CYL = 75
+INT H_ERR= 16
+; === 副程式：來料點位產生器 (含 A6 軸) ===
+DEF AP()
+    Q0 = P1
+    SWITCH i_index
+        CASE 1
+            Q0 = P1
+            Q0.A6 = -90
+        CASE 2
+            Q0.X = Q0.X + 99
+            Q0.A6 = -90
+        CASE 3
+            Q0.X = Q0.X + 198
+            Q0.A6 = -90
+        CASE 4
+            Q0.Y = Q0.Y + 84
+            Q0.A6 = -90
+        CASE 5
+            Q0.X = Q0.X + 99
+            Q0.Y = Q0.Y + 84
+            Q0.A6 = -90
+        CASE 6
+            Q0.X = Q0.X + 198
+            Q0.Y = Q0.Y + 84
+            Q0.A6 = -90
+        CASE 7
+            Q0.Y = Q0.Y + 168
+            Q0.A6 = -90
+        CASE 8
+            Q0.X = Q0.X + 99
+            Q0.Y = Q0.Y + 168
+            Q0.A6 = -90
+        CASE 9
+            Q0.X = Q0.X + 198
+            Q0.Y = Q0.Y + 168
+            Q0.A6 = -90
+        CASE 10
+            Q0.Y = Q0.Y + 252
+            Q0.A6 = -90
+        CASE 11
+            Q0.X = Q0.X + 99
+            Q0.Y = Q0.Y + 252
+            Q0.A6 = -90
+        CASE 12
+            Q0.X = Q0.X + 198
+            Q0.Y = Q0.Y + 252
+            Q0.A6 = -90
+        CASE 13
+            Q0.Y = Q0.Y + 336
+            Q0.A6 = -90
+        CASE 14
+            Q0.X = Q0.X + 99
+            Q0.Y = Q0.Y + 336
+            Q0.A6 = -90
+        CASE 15
+            Q0.X = Q0.X + 198
+            Q0.Y = Q0.Y + 336
+            Q0.A6 = -90
+    ENDSWITCH
+END
+
+; ========================================================
+; === 第一階段：來料區 → 分揀區
+; ========================================================
+FOR i_index = 1 TO 15
+    ; 初始化/回原點
+    PTP P0 FINE=1 Vel=10% Acc=100% TOOL[1] BASE[0]
+    $DO[1] = 0
+    $DO[2] = 0
+
+    ; 到來料點並下壓夾取（P+100 夾取）
+    AP()
+    PTP Q0 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+    LIN_REL {Z -100} FINE=1 Vel=100mm/s Acc=100% TOOL[1] BASE[0]   ; 夾取深度 100
+    $DO[1] = 1     ; 夾取信號(抓)
+    $DO[2] = 1
+       WAIT SEC 2.5
+    WAIT FOR $DI[4] == TRUE  
+    LIN_REL {Z 100} FINE=1 Vel=100mm/s Acc=100% TOOL[1] BASE[0]    ; 抬起回到 P+
+
+    PTP P0 FINE=1 Vel=10% Acc=100%   ; 大正方體 
+   
+    IF $DI[1]==0 AND $DI[2]==0 AND $DI[3]==1 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.X = Q1.X+110
+        Q1.Y = Q1.Y-1
+        Q1.Z = Q1.Z+230
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+        ; 再到堆疊高度 (0 - H_BIG*stack_big)
+	  Q1.Z=Q1.Z - (H_BIG  *  (3 - stack_big))
+        PTP Q1
+	stack_big=stack_big+1
+    ENDIF
+
+    ; 中正方體 
+    IF $DI[1]==0 AND $DI[2]==1 AND $DI[3]==0 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.X = Q1.X+110
+        Q1.Y = Q1.Y+130
+        Q1.Z = Q1.Z+195
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+	  Q1.Z=Q1.Z - (H_MID *  (3 - stack_mid))
+        PTP Q1
+	stack_mid=stack_mid+1
+    ENDIF
+
+    ; 小正方體 
+    IF $DI[1]==0 AND $DI[2]==1 AND $DI[3]==1 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.X = Q1.X+0
+        Q1.Y = Q1.Y+250
+        Q1.Z = Q1.Z+105
+              Q1.A6=-180
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+	  Q1.Z=Q1.Z - (H_SML *  (3 - stack_small))
+        PTP Q1
+	stack_small=stack_small+1
+    ENDIF
+
+    ; 六邊柱 
+    IF $DI[1]==1 AND $DI[2]==0 AND $DI[3]==0 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.X = Q1.X+0
+        Q1.Y = Q1.Y+130
+        Q1.Z = Q1.Z+180
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+	  Q1.Z=Q1.Z - (H_HEX *  (3 -stack_hex))
+        PTP Q1
+	stack_hex=stack_hex+1
+    ENDIF
+
+    ; 三角柱 
+    IF $DI[1]==1 AND $DI[2]==0 AND $DI[3]==1 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.Z = Q1.Z+170
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+	  Q1.Z=Q1.Z - (H_TRI *  (3 -stack_tri ))
+        PTP Q1
+	stack_tri =stack_tri +1
+    ENDIF
+    ; 圓柱
+
+    IF $DI[1]==1 AND $DI[2]==1 AND $DI[3]==0 AND $DI[4]==1 THEN
+        Q1 = P2
+        Q1.X = Q1.X+118
+        Q1.Y = Q1.Y+250
+        Q1.Z = Q1.Z+260
+        Q1.A6=-180
+        PTP Q1 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+	  Q1.Z=Q1.Z - (H_CYL *  (3 -stack_cyl ))
+        PTP Q1
+	stack_cyl =stack_cyl +1
+    ENDIF
+
+    ; 異常 → P8
+    IF $DI[1]==0 AND $DI[2]==0 AND $DI[3]==0 AND $DI[4]==1 THEN
+    PTP P8 FINE=1 Vel=10% Acc=100% TOOL[1] BASE[0]
+       WAIT SEC 1
+      $DO[1] = 0
+       $DO[2] = 0
+       WAIT SEC 3
+       PTP P0 FINE=1 Vel=10% Acc=100% TOOL[1] BASE[0]
+       LIN_REL{Z -50} FINE=1 Vel=100mm/s Acc=100%
+    ENDIF
+    ; 放置
+    $DO[1] = 0     ; 放置信號(鬆)
+    $DO[2] = 0
+    WAIT SEC 0.5
+       LIN_REL {Z 100} FINE=1 Vel=100mm/s Acc=100% TOOL[1] BASE[0] 
+    ; 回安全原點
+    PTP P0 FINE=1 Vel=30% Acc=100% TOOL[1] BASE[0]
+ENDFOR
+; ========================================================
+; === 第二階段：分揀區 → 出貨區 (三個訂單) ===
+
+; --------------------------------------------------
+; 主流程：依序執行三張訂單
+; --------------------------------------------------
+INT i_idx
+INT shape 
+INT order_no 
+E6POINT Qap
+ E6POINT Qpick 
+E6POINT Qplace
+FOR order_no = 1 TO 1
+   PTP P0 Vel=30% Acc=100%
+
+   FOR i_idx = 1 TO 5
+      ; --------------------------------------------------
+      ; 依照訂單編號與索引，取出對應的 shape
+      ; --------------------------------------------------
+      shape = 0   ; 預設為 0
+
+      IF order_no == 1 THEN
+         IF i_idx == 1 THEN 
+         shape = 1
+       ENDIF
+         IF i_idx == 2 THEN
+          shape = 3
+       ENDIF
+         IF i_idx == 3 THEN 
+         shape = 5
+       ENDIF
+         IF i_idx == 4 THEN
+       shape = 6
+       ENDIF
+         IF i_idx == 5 THEN 
+         shape = 0
+       ENDIF
+      ENDIF
+
+      IF order_no == 2 THEN
+         IF i_idx == 1 THEN 
+         shape = 1
+       ENDIF
+         IF i_idx == 2 THEN
+          shape = 3
+       ENDIF
+         IF i_idx == 3 THEN 
+         shape = 5
+       ENDIF
+         IF i_idx == 4 THEN
+       shape = 6
+       ENDIF
+         IF i_idx == 5 THEN 
+         shape = 0
+       ENDIF
+      ENDIF
+
+      IF order_no == 3 THEN
+         IF i_idx == 1 THEN 
+         shape = 1
+       ENDIF
+         IF i_idx == 2 THEN
+          shape = 3
+       ENDIF
+         IF i_idx == 3 THEN 
+         shape = 5
+       ENDIF
+         IF i_idx == 4 THEN
+       shape = 6
+       ENDIF
+         IF i_idx == 5 THEN 
+         shape = 0
+       ENDIF
+      ENDIF
+
+      ; 如果 shape = 0 → 表示該格沒料，直接跳過
+      IF shape == 0 THEN
+      ENDIF
+
+      ; ------------------------
+      ; CASE 依形狀決定 Qap, Qpick, Qplace
+      ; ------------------------
+SWITCH shape
+   CASE 1 ; 大正方體
+      Qap = P2
+      Qap.X = Qap.X+110
+      Qap.Y = Qap.Y-5
+      Qap.Z = Qap.Z+215
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_BIG * (3-stack_big))
+      SWITCH order_no
+         CASE 1
+            Qplace = P9
+         CASE 2
+            Qplace = P31
+         CASE 3
+            Qplace = P41
+      ENDSWITCH
+
+      stack_big = stack_big +1
+
+
+   CASE 2 ; 中正方體
+      Qap = P2
+      Qap.X = Qap.X+110
+      Qap.Y = Qap.Y+130
+      Qap.Z = Qap.Z+170
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_MID *(3- stack_mid))
+
+      SWITCH order_no
+         CASE 1
+            Qplace = P22
+         CASE 2
+            Qplace = P32
+         CASE 3
+            Qplace = P42
+      ENDSWITCH
+
+      stack_mid = stack_mid +1
+
+
+   CASE 3 ; 小正方體
+      Qap = P2
+      Qap.X = Qap.X+10
+      Qap.Y = Qap.Y+245
+      Qap.Z = Qap.Z+95
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_SML *(3- stack_small))
+
+      SWITCH order_no
+         CASE 1
+            Qplace = P10
+         CASE 2
+            Qplace = P33
+         CASE 3
+            Qplace = P43
+      ENDSWITCH
+
+      stack_small = stack_small + 1
+
+
+   CASE 4 ; 六邊柱
+      Qap = P2
+      Qap.X = Qap.X+10
+      Qap.Y = Qap.Y+130
+      Qap.Z = Qap.Z+155
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_HEX *(3- stack_hex))
+
+      SWITCH order_no
+         CASE 1
+            Qplace = P24
+         CASE 2
+            Qplace = P34
+         CASE 3
+            Qplace = P44
+      ENDSWITCH
+
+      stack_hex = stack_hex +1
+
+
+   CASE 5 ; 三角柱
+      Qap = P2
+      Qap.Z = Qap.Z+167
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_TRI * (3-stack_tri))
+
+      SWITCH order_no
+         CASE 1
+            Qplace = P11
+         CASE 2
+            Qplace = P35
+         CASE 3
+            Qplace = P45
+      ENDSWITCH
+
+      stack_tri = stack_tri +1
+
+
+   CASE 6 ; 圓柱
+      Qap = P2
+      Qap.X = Qap.X+120
+      Qap.Y = Qap.Y+250
+      Qap.Z = Qap.Z+200
+      Qpick = Qap
+      Qpick.Z = Qpick.Z - (H_CYL *3- (stack_cyl))
+
+      SWITCH order_no
+         CASE 1
+            Qplace = P12
+         CASE 2
+            Qplace = P36
+         CASE 3
+            Qplace = P46
+      ENDSWITCH
+
+      stack_cyl = stack_cyl +1
+ENDSWITCH
+
+      ; ------------------------
+      ; 夾取流程
+      ; ------------------------
+      PTP P0 Vel=30% Acc=100%
+      PTP Qap
+      PTP Qpick
+      $DO[1] = 1
+      $DO[2] = 1
+      WAIT SEC 0.5
+      PTP Qap
+
+      ; ------------------------
+      ; 放置流程
+      ; ------------------------
+      Qap = Qplace
+      Qap.Z = Qap.Z + 150
+      PTP Qap
+      PTP Qplace
+      $DO[1] = 0
+      $DO[2] = 0
+      WAIT SEC 0.5
+      PTP Qap
+
+   ENDFOR
+
+   ; 該訂單完成 → 回原點
+   PTP P0 Vel=30% Acc=100%
+ENDFOR
+;[Program&E]
